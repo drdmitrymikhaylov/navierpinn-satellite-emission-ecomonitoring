@@ -1,11 +1,21 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
 type: software
-title: "navierpinn-satellite-emission-ecomonitoring"
+title: "NavierPINN: Emission Monitoring from Satellites and Telecom Towers"
+abstract: "Emission monitoring from satellites and telecom towers"
 authors:
   - family-names: Mikhaylov
     given-names: Dmitry
     orcid: "https://orcid.org/0009-0009-2108-6820"
+    affiliation: "Abu Dhabi Maritime Academy, AD Ports Group"
 repository-code: "https://github.com/drdmitrymikhaylov/navierpinn-satellite-emission-ecomonitoring"
+url: "https://github.com/drdmitrymikhaylov/navierpinn-satellite-emission-ecomonitoring"
 license: "CC-BY-4.0"
-year: 2026
+keywords:
+  - "air quality"
+  - "environmental monitoring"
+  - "inverse problems"
+  - "physics informed neural networks"
+  - "plume dispersion"
+  - "remote sensing"
+date-released: "2026-09-10"

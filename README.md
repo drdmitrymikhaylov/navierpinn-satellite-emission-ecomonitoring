@@ -1,5 +1,9 @@
 # Navier PINN - Satellite and Tower-Sensor Emission Detection for Ecological Monitoring
 
+## Where the idea comes from
+
+I have worked on carbon measurement since 2022, when I published on what AI and IoT sensing mean for carbon market regulation (*BIO Web of Conferences*, 2022). A carbon market is only as good as the measurements under it. A 2026 paper in *Stochastic Environmental Research and Risk Assessment* took the next step with machine learning for CO2 exchange, and granted US patent 12,602,659 covers emission compliance monitoring at sea. Towers are the land version of the same idea: put the sensors where power and connectivity already exist, and let the transport equation do the rest.
+
 ## Idea
 
 Emission monitoring fails at the same two points everywhere. Satellites see a column, not a source, and ground sensors see a source, not an area. The physics that connects them is plume transport - advection and diffusion of a scalar in a turbulent boundary layer.

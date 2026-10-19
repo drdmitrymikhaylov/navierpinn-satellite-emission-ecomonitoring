@@ -1,0 +1,22 @@
+{
+  "upload_type": "software",
+  "title": "NavierPINN: Emission Monitoring from Satellites and Telecom Towers",
+  "description": "Emission monitoring from satellites and telecom towers",
+  "creators": [
+    {
+      "name": "Mikhaylov, Dmitry",
+      "orcid": "0009-0009-2108-6820",
+      "affiliation": "Abu Dhabi Maritime Academy, AD Ports Group"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "air quality",
+    "environmental monitoring",
+    "inverse problems",
+    "physics informed neural networks",
+    "plume dispersion",
+    "remote sensing"
+  ],
+  "access_right": "open"
+}

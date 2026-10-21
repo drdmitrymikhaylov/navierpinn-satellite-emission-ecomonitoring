@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
 type: software
 title: "NavierPINN: Emission Monitoring from Satellites and Telecom Towers"
+doi: "10.5281/zenodo.23529563"
 abstract: "Emission monitoring from satellites and telecom towers"
 authors:
   - family-names: Mikhaylov
